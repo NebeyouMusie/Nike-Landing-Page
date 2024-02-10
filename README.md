@@ -1,3 +1,3 @@
-# Nike Landing page
+# Nike landing page
 
-Nike Landing page built using React and Tailwind CSS.
+Nike landing page built using React and Tailwind CSS.
