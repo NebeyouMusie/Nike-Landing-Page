@@ -5,7 +5,7 @@ import Button from "./Button";
 
 const Nav = () => {
   return (
-    <header className="padding-x py-8 z-50 w-full fixed">
+    <header className="padding-x py-8 z-50 w-full absolute">
       <nav className="flex justify-between items-center max-container">
         <a href="#home">
           <img src={headerLogo} alt="Nike Logo" width={130} height={29} />
