@@ -33,7 +33,7 @@ A responsive Nike landing page built with React, JavaScript, and Tailwind CSS, s
 
 ## Usage
 
-1. Open http://localhost:5173 in your browser.
+1. Open http://localhost:5173 in your browser to view the project locally.
 2. Explore the interactive elements and functionality of the landing page.
 
 ## Credit
@@ -42,4 +42,5 @@ A responsive Nike landing page built with React, JavaScript, and Tailwind CSS, s
 
 ## Contact
 
-- [@NebeyouMusie] , [nebeyoumusie@gmail.com]
+- [@NebeyouMusie](https://github.com/NebeyouMusie)
+- nebeyoumusie@gmail.com
