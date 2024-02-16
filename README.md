@@ -33,7 +33,7 @@ A responsive Nike landing page built with React, JavaScript, and Tailwind CSS, s
 
 ## Credit
 
-- @adrianhajdin - JS Mastery
+- [@adrianhajdin](https://github.com/adrianhajdin)
 
 ## Contact
 
