@@ -8,6 +8,11 @@
 
 A responsive Nike landing page built with React, JavaScript, and Tailwind CSS, showcasing a clean and modern design perfect for product promotions and brand engagement.
 
+## Live Project
+
+- **URL:** https://nike-c.netlify.app/
+- **Open Live Demo:** [![Open in browser](https://img.shields.io/badge/Open_in_browser-online_at_https_nike-c_netlify_app_--_svg?style=for-the-badge&logo=Netlify)](https://nike-c.netlify.app/)
+
 ## Key Features
 
 - Responsive design: Adapts seamlessly to various screen sizes for optimal user experience.
