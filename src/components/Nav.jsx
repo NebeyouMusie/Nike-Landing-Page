@@ -25,7 +25,7 @@ const Nav = () => {
             </li>
           ))}
         </ul>
-        <div className="hidden md:block">
+        <div className="block max-lg:hidden">
           <Button label="Sign Up" />
         </div>
         <div
