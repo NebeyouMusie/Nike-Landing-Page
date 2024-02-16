@@ -37,4 +37,4 @@ A responsive Nike landing page built with React, JavaScript, and Tailwind CSS, s
 
 ## Contact
 
-- [@NebeyouMusie, nebeyoumusie@gmail.com]
+- [@NebeyouMusie] , [nebeyoumusie@gmail.com]
